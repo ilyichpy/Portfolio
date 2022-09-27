@@ -1,0 +1,64 @@
+.otstup1{
+    margin-top:100px;
+    position: absolute;
+    margin-left: 100px;
+    border-right: 4px solid #625b5b;
+    
+}
+
+.pravo{
+    margin-left: 500px;
+    margin-top: 100px; 
+    position: absolute;  
+}
+
+table {
+    margin-top: 74px;
+    right: 11px;
+    border-bottom: 1px solid rgb(200,200,200);
+    border-collapse: collapse;
+    letter-spacing: 1px;
+    font-size: 0.8rem;
+    position: relative;
+}
+
+.backgradient{
+    background: linear-gradient(to top, #e2e1df, #c5c2bf);
+    
+}
+
+.border1{
+    padding-right: 10px;
+    margin-left: 140px;
+    text-align: center;
+    border-radius: 80px;
+}
+
+.img_1{
+    position: relative;
+    right:60px;
+}
+
+.padding1{
+    width: 1360px;
+    text-align: center;
+    border-bottom: 1px solid rgb(200,200,200);
+}
+
+.font_size{
+    font-size: 12px;
+}
+
+.multi_column{
+    text-align: left;
+    line-height: 19px;
+}
+
+.kaif_1{
+    margin-left: 40px;
+}
+
+h1{
+    font-family: 'Russo One', sans-serif;
+    color:rgb(43, 36, 43);
+}

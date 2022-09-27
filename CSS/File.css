@@ -1,0 +1,104 @@
+
+
+.button {
+    position: relative;
+    background-color:hsl(34, 72%, 47%);
+    border: none;
+    font-size: 28px;
+    color: #FFFFFF;
+    padding: 20px;
+    width: 200px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+    position: relative;
+    left: 650px;
+    bottom: 44px;
+    font-family: 'Gabriela', serif;
+    
+    
+}
+
+.button:after {
+    content: "";
+    background: hsl(34, 79%, 65%);
+    display: block;
+    position: absolute;
+    padding-top: 300%;
+    padding-left: 350%;
+    margin-left: -20px !important;
+    margin-top: -120%;
+    opacity: 0;
+    transition: all 0.8s
+}
+
+.button:active:after {
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s
+} 
+
+.txt {
+    font-size:30px;
+    color:rgb(51, 77, 156);
+    font-weight: bold;
+    text-align:left;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.otstup{
+    margin-top:200px;
+}
+
+.right{
+    margin-left:25px;
+}
+
+.button3{
+    position: relative;
+    background-color: hsl(34, 72%, 47%);
+    border: none;
+    font-size: 28px;
+    color: #FFFFFF;
+    padding: 20px;
+    width: 200px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+    position: relative;
+    top:275px;
+    left: 600px;
+    
+}
+
+.header-title{
+    position: absolute;
+    width: 1440px;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+    background-color: hsl(34, 72%, 47%);
+    
+}
+
+pre{
+    text-align:left;
+    font-size:20px;
+}
+
+.background{
+    background: linear-gradient(to top, #ffe5b4, #ffdab9);
+    margin-bottom:350px;
+    padding: 20px;;
+}
+
+
+
+
